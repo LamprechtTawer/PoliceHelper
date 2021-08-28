@@ -10,5 +10,7 @@
   "latestrkey": "2",
   "updateurlrkey": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/source/rkeys.luac?raw=true",
   "latestnotf": "1",
-  "updateurlnotf": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/imgui_notf.luac?raw=true"
+  "updateurlnotf": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/imgui_notf.luac?raw=true",
+  "latestpdf": "1",
+  "updateurlpdf": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/source/api/pdfunc.luac?raw=true"
 }
