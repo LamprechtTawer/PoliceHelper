@@ -3,7 +3,7 @@
   "latest": "1",
   "date": "05.08.2021",
   "infoupd": "- Система обновления\n- Режимы пост/патруль\n- Анимированный Fist",
-  "latestsampapi": "7",
+  "latestsampapi": "8",
   "updateurlsampapi": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/source/api/init.luac?raw=true",
   "latestaddon": "1",
   "updateurladdon": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/source/imgui_addons.luac?raw=true",
@@ -11,6 +11,6 @@
   "updateurlrkey": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/source/rkeys.luac?raw=true",
   "latestnotf": "1",
   "updateurlnotf": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/imgui_notf.luac?raw=true",
-  "latestpdf": "1",
+  "latestpdf": "2",
   "updateurlpdf": "https://github.com/LamprechtTawer/PoliceHelper/blob/main/source/api/pdfunc.luac?raw=true"
 }
